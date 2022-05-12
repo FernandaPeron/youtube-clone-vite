@@ -3,6 +3,8 @@
 > run `npm start` for development server
 > 
 > `npm run build` bundles for production
+> 
+> `npm run preview` boots up a local server with the files provided in `/dist`, to check if build was successful
 
 This is an example of the YouTube clone project bundled and served with vite.
 
